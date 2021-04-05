@@ -1,3 +1,3 @@
-date
-cal
-watch 14
+echo date
+echo cal
+echo watch 14
